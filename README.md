@@ -1,43 +1,36 @@
-Hey, I’m Max 👋
-
-🎓 CS @ UC Davis
+🎓 CS Major
 
 Building backend systems, distributed infrastructure, and AI-powered applications.
 
-backend/
-├── distributed-systems
-├── ai-infrastructure
-├── cloud-platforms
-└── reliability-engineering
+### Current Focus
 
-🚀 Currently Building
+- Backend Engineering
+- Distributed Systems
+- AI Infrastructure
+- Cloud Platforms
+- Reliability Engineering
 
-* 🏥 Care Plan Generator
-* 📁 Raft Distributed File System
-* 📈 High-Concurrency Trading Platform
+### Currently Building
 
-⚙️ Tech Stack
+- 🏥 Care Plan Generator
+- 📁 Raft Distributed File System
+- 📈 High-Concurrency Trading Platform
+- 🤖 AI Event Monitor
 
-Languages
+### Tech
+
+**Languages**
 
 Java • Go • Python • TypeScript • JavaScript
 
-Backend
+**Backend**
 
 Spring Boot • FastAPI • Node.js • Express
 
-Infrastructure
+**Infrastructure**
 
 PostgreSQL • Redis • Docker • AWS
 
-🌱 Interests
+---
 
-* Backend Engineering
-* Distributed Systems
-* AI Infrastructure
-* Cloud Platforms
-* Reliability Engineering
-
-⸻
-
-Building things that survive production, not just demos.
+> Building things that survive production, not just demos.
