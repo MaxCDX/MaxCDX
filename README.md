@@ -15,7 +15,6 @@ Building backend systems, distributed infrastructure, and AI-powered application
 - 🏥 Care Plan Generator
 - 📁 Raft Distributed File System
 - 📈 High-Concurrency Trading Platform
-- 🤖 AI Event Monitor
 
 ### Tech
 
